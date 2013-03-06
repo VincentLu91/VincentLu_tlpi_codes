@@ -6,8 +6,7 @@
  * such as: *
  * 1) time_t -> printable form *
  * 2) time_t -> broken-down time *
- * 3) broken_down time <--> printable form *
- * 4) currTime */
+ * 3) broken_down time <--> printable form */
 
 int main () {
   time_t t;
